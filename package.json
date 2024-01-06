@@ -1,0 +1,27 @@
+{
+  "name": "mern-auth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdullahmujahidali/MERN-AUTH.git"
+  },
+  "keywords": [
+    "mern",
+    "auth",
+    "jwt",
+    "express",
+    "react",
+    "redux"
+  ],
+  "author": "abdullahmujahidali",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abdullahmujahidali/MERN-AUTH/issues"
+  },
+  "homepage": "https://github.com/abdullahmujahidali/MERN-AUTH#readme"
+}
